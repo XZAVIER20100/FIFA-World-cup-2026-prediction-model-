@@ -1,0 +1,4898 @@
+{
+  "Argentina": [
+    {
+      "name": "Lionel Messi",
+      "position": "FW",
+      "overall": 90,
+      "age": 38,
+      "club": "Inter Miami",
+      "value_millions": 35,
+      "caps": 180,
+      "goals": 108
+    },
+    {
+      "name": "Julian Alvarez",
+      "position": "FW",
+      "overall": 88,
+      "age": 25,
+      "club": "Atletico Madrid",
+      "value_millions": 90,
+      "caps": 45,
+      "goals": 18
+    },
+    {
+      "name": "Enzo Fernandez",
+      "position": "MF",
+      "overall": 87,
+      "age": 24,
+      "club": "Chelsea",
+      "value_millions": 75,
+      "caps": 30,
+      "goals": 5
+    },
+    {
+      "name": "Alexis Mac Allister",
+      "position": "MF",
+      "overall": 86,
+      "age": 26,
+      "club": "Liverpool",
+      "value_millions": 70,
+      "caps": 35,
+      "goals": 4
+    },
+    {
+      "name": "Emiliano Martinez",
+      "position": "GK",
+      "overall": 87,
+      "age": 32,
+      "club": "Aston Villa",
+      "value_millions": 40,
+      "caps": 45,
+      "goals": 0
+    },
+    {
+      "name": "Cristian Romero",
+      "position": "DF",
+      "overall": 86,
+      "age": 27,
+      "club": "Tottenham",
+      "value_millions": 65,
+      "caps": 40,
+      "goals": 3
+    },
+    {
+      "name": "Lisandro Martinez",
+      "position": "DF",
+      "overall": 85,
+      "age": 27,
+      "club": "Manchester United",
+      "value_millions": 60,
+      "caps": 25,
+      "goals": 2
+    },
+    {
+      "name": "Nahuel Molina",
+      "position": "DF",
+      "overall": 84,
+      "age": 27,
+      "club": "Atletico Madrid",
+      "value_millions": 45,
+      "caps": 40,
+      "goals": 4
+    },
+    {
+      "name": "Rodrigo De Paul",
+      "position": "MF",
+      "overall": 84,
+      "age": 31,
+      "club": "Atletico Madrid",
+      "value_millions": 30,
+      "caps": 55,
+      "goals": 5
+    },
+    {
+      "name": "Lautaro Martinez",
+      "position": "FW",
+      "overall": 87,
+      "age": 27,
+      "club": "Inter Milan",
+      "value_millions": 95,
+      "caps": 50,
+      "goals": 25
+    }
+  ],
+  "France": [
+    {
+      "name": "Kylian Mbappe",
+      "position": "FW",
+      "overall": 92,
+      "age": 27,
+      "club": "Real Madrid",
+      "value_millions": 180,
+      "caps": 90,
+      "goals": 48
+    },
+    {
+      "name": "Ousmane Dembele",
+      "position": "FW",
+      "overall": 87,
+      "age": 28,
+      "club": "PSG",
+      "value_millions": 60,
+      "caps": 55,
+      "goals": 12
+    },
+    {
+      "name": "Antoine Griezmann",
+      "position": "FW",
+      "overall": 86,
+      "age": 35,
+      "club": "Atletico Madrid",
+      "value_millions": 25,
+      "caps": 135,
+      "goals": 57
+    },
+    {
+      "name": "Aurelien Tchouameni",
+      "position": "MF",
+      "overall": 87,
+      "age": 26,
+      "club": "Real Madrid",
+      "value_millions": 80,
+      "caps": 40,
+      "goals": 3
+    },
+    {
+      "name": "Eduardo Camavinga",
+      "position": "MF",
+      "overall": 86,
+      "age": 23,
+      "club": "Real Madrid",
+      "value_millions": 85,
+      "caps": 20,
+      "goals": 2
+    },
+    {
+      "name": "Theo Hernandez",
+      "position": "DF",
+      "overall": 86,
+      "age": 28,
+      "club": "AC Milan",
+      "value_millions": 60,
+      "caps": 35,
+      "goals": 7
+    },
+    {
+      "name": "Dayot Upamecano",
+      "position": "DF",
+      "overall": 85,
+      "age": 27,
+      "club": "Bayern Munich",
+      "value_millions": 70,
+      "caps": 30,
+      "goals": 2
+    },
+    {
+      "name": "Mike Maignan",
+      "position": "GK",
+      "overall": 88,
+      "age": 30,
+      "club": "AC Milan",
+      "value_millions": 45,
+      "caps": 15,
+      "goals": 0
+    },
+    {
+      "name": "Adrien Rabiot",
+      "position": "MF",
+      "overall": 84,
+      "age": 30,
+      "club": "Free Agent",
+      "value_millions": 20,
+      "caps": 50,
+      "goals": 6
+    },
+    {
+      "name": "Randal Kolo Muani",
+      "position": "FW",
+      "overall": 84,
+      "age": 27,
+      "club": "PSG",
+      "value_millions": 50,
+      "caps": 20,
+      "goals": 8
+    }
+  ],
+  "Spain": [
+    {
+      "name": "Lamine Yamal",
+      "position": "FW",
+      "overall": 89,
+      "age": 18,
+      "club": "Barcelona",
+      "value_millions": 150,
+      "caps": 15,
+      "goals": 5
+    },
+    {
+      "name": "Pedri",
+      "position": "MF",
+      "overall": 88,
+      "age": 23,
+      "club": "Barcelona",
+      "value_millions": 100,
+      "caps": 30,
+      "goals": 4
+    },
+    {
+      "name": "Gavi",
+      "position": "MF",
+      "overall": 86,
+      "age": 21,
+      "club": "Barcelona",
+      "value_millions": 90,
+      "caps": 25,
+      "goals": 3
+    },
+    {
+      "name": "Nico Williams",
+      "position": "FW",
+      "overall": 86,
+      "age": 23,
+      "club": "Athletic Bilbao",
+      "value_millions": 70,
+      "caps": 20,
+      "goals": 6
+    },
+    {
+      "name": "Dani Carvajal",
+      "position": "DF",
+      "overall": 86,
+      "age": 34,
+      "club": "Real Madrid",
+      "value_millions": 15,
+      "caps": 55,
+      "goals": 3
+    },
+    {
+      "name": "Rodri",
+      "position": "MF",
+      "overall": 91,
+      "age": 29,
+      "club": "Manchester City",
+      "value_millions": 110,
+      "caps": 50,
+      "goals": 10
+    },
+    {
+      "name": "Alvaro Morata",
+      "position": "FW",
+      "overall": 83,
+      "age": 33,
+      "club": "AC Milan",
+      "value_millions": 15,
+      "caps": 70,
+      "goals": 35
+    },
+    {
+      "name": "Marc-Andre ter Stegen",
+      "position": "GK",
+      "overall": 87,
+      "age": 34,
+      "club": "Barcelona",
+      "value_millions": 20,
+      "caps": 40,
+      "goals": 0
+    },
+    {
+      "name": "Alejandro Grimaldo",
+      "position": "DF",
+      "overall": 85,
+      "age": 30,
+      "club": "Bayer Leverkusen",
+      "value_millions": 40,
+      "caps": 10,
+      "goals": 2
+    },
+    {
+      "name": "Mikel Oyarzabal",
+      "position": "FW",
+      "overall": 84,
+      "age": 28,
+      "club": "Real Sociedad",
+      "value_millions": 50,
+      "caps": 35,
+      "goals": 12
+    }
+  ],
+  "Brazil": [
+    {
+      "name": "Vinicius Junior",
+      "position": "FW",
+      "overall": 91,
+      "age": 25,
+      "club": "Real Madrid",
+      "value_millions": 150,
+      "caps": 40,
+      "goals": 15
+    },
+    {
+      "name": "Rodrygo",
+      "position": "FW",
+      "overall": 87,
+      "age": 24,
+      "club": "Real Madrid",
+      "value_millions": 100,
+      "caps": 30,
+      "goals": 10
+    },
+    {
+      "name": "Endrick",
+      "position": "FW",
+      "overall": 82,
+      "age": 19,
+      "club": "Real Madrid",
+      "value_millions": 60,
+      "caps": 10,
+      "goals": 3
+    },
+    {
+      "name": "Bruno Guimaraes",
+      "position": "MF",
+      "overall": 87,
+      "age": 28,
+      "club": "Newcastle",
+      "value_millions": 80,
+      "caps": 35,
+      "goals": 5
+    },
+    {
+      "name": "Lucas Paqueta",
+      "position": "MF",
+      "overall": 85,
+      "age": 28,
+      "club": "West Ham",
+      "value_millions": 55,
+      "caps": 40,
+      "goals": 8
+    },
+    {
+      "name": "Marquinhos",
+      "position": "DF",
+      "overall": 87,
+      "age": 32,
+      "club": "PSG",
+      "value_millions": 40,
+      "caps": 90,
+      "goals": 7
+    },
+    {
+      "name": "Eder Militao",
+      "position": "DF",
+      "overall": 85,
+      "age": 27,
+      "club": "Real Madrid",
+      "value_millions": 70,
+      "caps": 35,
+      "goals": 2
+    },
+    {
+      "name": "Alisson",
+      "position": "GK",
+      "overall": 89,
+      "age": 33,
+      "club": "Liverpool",
+      "value_millions": 35,
+      "caps": 70,
+      "goals": 0
+    },
+    {
+      "name": "Danilo",
+      "position": "DF",
+      "overall": 83,
+      "age": 34,
+      "club": "Juventus",
+      "value_millions": 10,
+      "caps": 60,
+      "goals": 4
+    },
+    {
+      "name": "Raphinha",
+      "position": "FW",
+      "overall": 86,
+      "age": 28,
+      "club": "Barcelona",
+      "value_millions": 70,
+      "caps": 30,
+      "goals": 12
+    }
+  ],
+  "England": [
+    {
+      "name": "Jude Bellingham",
+      "position": "MF",
+      "overall": 90,
+      "age": 22,
+      "club": "Real Madrid",
+      "value_millions": 150,
+      "caps": 40,
+      "goals": 10
+    },
+    {
+      "name": "Phil Foden",
+      "position": "MF",
+      "overall": 89,
+      "age": 25,
+      "club": "Manchester City",
+      "value_millions": 110,
+      "caps": 45,
+      "goals": 12
+    },
+    {
+      "name": "Bukayo Saka",
+      "position": "FW",
+      "overall": 88,
+      "age": 24,
+      "club": "Arsenal",
+      "value_millions": 120,
+      "caps": 40,
+      "goals": 14
+    },
+    {
+      "name": "Harry Kane",
+      "position": "FW",
+      "overall": 89,
+      "age": 32,
+      "club": "Bayern Munich",
+      "value_millions": 100,
+      "caps": 100,
+      "goals": 65
+    },
+    {
+      "name": "Declan Rice",
+      "position": "MF",
+      "overall": 87,
+      "age": 27,
+      "club": "Arsenal",
+      "value_millions": 100,
+      "caps": 55,
+      "goals": 5
+    },
+    {
+      "name": "Trent Alexander-Arnold",
+      "position": "DF",
+      "overall": 87,
+      "age": 27,
+      "club": "Real Madrid",
+      "value_millions": 70,
+      "caps": 35,
+      "goals": 3
+    },
+    {
+      "name": "William Saliba",
+      "position": "DF",
+      "overall": 87,
+      "age": 24,
+      "club": "Arsenal",
+      "value_millions": 90,
+      "caps": 15,
+      "goals": 1
+    },
+    {
+      "name": "John Stones",
+      "position": "DF",
+      "overall": 86,
+      "age": 32,
+      "club": "Manchester City",
+      "value_millions": 40,
+      "caps": 80,
+      "goals": 3
+    },
+    {
+      "name": "Jordan Pickford",
+      "position": "GK",
+      "overall": 85,
+      "age": 32,
+      "club": "Everton",
+      "value_millions": 25,
+      "caps": 60,
+      "goals": 0
+    },
+    {
+      "name": "Marcus Rashford",
+      "position": "FW",
+      "overall": 83,
+      "age": 28,
+      "club": "Manchester United",
+      "value_millions": 50,
+      "caps": 60,
+      "goals": 17
+    }
+  ],
+  "Germany": [
+    {
+      "name": "Florian Wirtz",
+      "position": "MF",
+      "overall": 89,
+      "age": 22,
+      "club": "Bayer Leverkusen",
+      "value_millions": 130,
+      "caps": 25,
+      "goals": 8
+    },
+    {
+      "name": "Jamal Musiala",
+      "position": "MF",
+      "overall": 88,
+      "age": 23,
+      "club": "Bayern Munich",
+      "value_millions": 110,
+      "caps": 30,
+      "goals": 10
+    },
+    {
+      "name": "Leroy Sane",
+      "position": "FW",
+      "overall": 86,
+      "age": 30,
+      "club": "Bayern Munich",
+      "value_millions": 50,
+      "caps": 60,
+      "goals": 15
+    },
+    {
+      "name": "Kai Havertz",
+      "position": "FW",
+      "overall": 85,
+      "age": 26,
+      "club": "Arsenal",
+      "value_millions": 70,
+      "caps": 50,
+      "goals": 18
+    },
+    {
+      "name": "Toni Kroos",
+      "position": "MF",
+      "overall": 86,
+      "age": 36,
+      "club": "Real Madrid",
+      "value_millions": 10,
+      "caps": 110,
+      "goals": 17
+    },
+    {
+      "name": "Joshua Kimmich",
+      "position": "MF",
+      "overall": 87,
+      "age": 30,
+      "club": "Bayern Munich",
+      "value_millions": 60,
+      "caps": 90,
+      "goals": 6
+    },
+    {
+      "name": "Antonio Rudiger",
+      "position": "DF",
+      "overall": 86,
+      "age": 33,
+      "club": "Real Madrid",
+      "value_millions": 25,
+      "caps": 70,
+      "goals": 3
+    },
+    {
+      "name": "Jonathan Tah",
+      "position": "DF",
+      "overall": 84,
+      "age": 29,
+      "club": "Bayer Leverkusen",
+      "value_millions": 40,
+      "caps": 20,
+      "goals": 2
+    },
+    {
+      "name": "Marc-Andre ter Stegen",
+      "position": "GK",
+      "overall": 87,
+      "age": 34,
+      "club": "Barcelona",
+      "value_millions": 20,
+      "caps": 40,
+      "goals": 0
+    },
+    {
+      "name": "Niclas Fullkrug",
+      "position": "FW",
+      "overall": 82,
+      "age": 32,
+      "club": "Borussia Dortmund",
+      "value_millions": 15,
+      "caps": 20,
+      "goals": 10
+    }
+  ],
+  "Netherlands": [
+    {
+      "name": "Virgil van Dijk",
+      "position": "DF",
+      "overall": 89,
+      "age": 34,
+      "club": "Liverpool",
+      "value_millions": 30,
+      "caps": 80,
+      "goals": 8
+    },
+    {
+      "name": "Frenkie de Jong",
+      "position": "MF",
+      "overall": 87,
+      "age": 28,
+      "club": "Barcelona",
+      "value_millions": 70,
+      "caps": 55,
+      "goals": 8
+    },
+    {
+      "name": "Memphis Depay",
+      "position": "FW",
+      "overall": 84,
+      "age": 32,
+      "club": "Atletico Madrid",
+      "value_millions": 20,
+      "caps": 90,
+      "goals": 44
+    },
+    {
+      "name": "Xavi Simons",
+      "position": "MF",
+      "overall": 85,
+      "age": 22,
+      "club": "RB Leipzig",
+      "value_millions": 80,
+      "caps": 15,
+      "goals": 5
+    },
+    {
+      "name": "Cody Gakpo",
+      "position": "FW",
+      "overall": 85,
+      "age": 26,
+      "club": "Liverpool",
+      "value_millions": 65,
+      "caps": 30,
+      "goals": 10
+    },
+    {
+      "name": "Matthijs de Ligt",
+      "position": "DF",
+      "overall": 85,
+      "age": 26,
+      "club": "Manchester United",
+      "value_millions": 60,
+      "caps": 45,
+      "goals": 4
+    },
+    {
+      "name": "Denzel Dumfries",
+      "position": "DF",
+      "overall": 83,
+      "age": 30,
+      "club": "Inter Milan",
+      "value_millions": 25,
+      "caps": 55,
+      "goals": 7
+    },
+    {
+      "name": "Stefan de Vrij",
+      "position": "DF",
+      "overall": 83,
+      "age": 34,
+      "club": "Inter Milan",
+      "value_millions": 10,
+      "caps": 65,
+      "goals": 3
+    },
+    {
+      "name": "Mark Flekken",
+      "position": "GK",
+      "overall": 83,
+      "age": 32,
+      "club": "Brentford",
+      "value_millions": 15,
+      "caps": 10,
+      "goals": 0
+    },
+    {
+      "name": "Steven Bergwijn",
+      "position": "FW",
+      "overall": 82,
+      "age": 28,
+      "club": "Ajax",
+      "value_millions": 20,
+      "caps": 35,
+      "goals": 8
+    }
+  ],
+  "Portugal": [
+    {
+      "name": "Cristiano Ronaldo",
+      "position": "FW",
+      "overall": 85,
+      "age": 41,
+      "club": "Al Nassr",
+      "value_millions": 10,
+      "caps": 210,
+      "goals": 130
+    },
+    {
+      "name": "Bruno Fernandes",
+      "position": "MF",
+      "overall": 88,
+      "age": 31,
+      "club": "Manchester United",
+      "value_millions": 65,
+      "caps": 70,
+      "goals": 25
+    },
+    {
+      "name": "Bernardo Silva",
+      "position": "MF",
+      "overall": 88,
+      "age": 31,
+      "club": "Manchester City",
+      "value_millions": 70,
+      "caps": 95,
+      "goals": 12
+    },
+    {
+      "name": "Joao Felix",
+      "position": "FW",
+      "overall": 84,
+      "age": 26,
+      "club": "Barcelona",
+      "value_millions": 40,
+      "caps": 40,
+      "goals": 8
+    },
+    {
+      "name": "Rafael Leao",
+      "position": "FW",
+      "overall": 86,
+      "age": 26,
+      "club": "AC Milan",
+      "value_millions": 75,
+      "caps": 35,
+      "goals": 8
+    },
+    {
+      "name": "Ruben Dias",
+      "position": "DF",
+      "overall": 87,
+      "age": 29,
+      "club": "Manchester City",
+      "value_millions": 75,
+      "caps": 55,
+      "goals": 4
+    },
+    {
+      "name": "Diogo Dalot",
+      "position": "DF",
+      "overall": 84,
+      "age": 26,
+      "club": "Manchester United",
+      "value_millions": 45,
+      "caps": 25,
+      "goals": 3
+    },
+    {
+      "name": "Pepe",
+      "position": "DF",
+      "overall": 82,
+      "age": 43,
+      "club": "Porto",
+      "value_millions": 2,
+      "caps": 140,
+      "goals": 8
+    },
+    {
+      "name": "Joao Cancelo",
+      "position": "DF",
+      "overall": 85,
+      "age": 32,
+      "club": "Barcelona",
+      "value_millions": 25,
+      "caps": 55,
+      "goals": 10
+    },
+    {
+      "name": "Diogo Costa",
+      "position": "GK",
+      "overall": 85,
+      "age": 26,
+      "club": "Porto",
+      "value_millions": 40,
+      "caps": 20,
+      "goals": 0
+    }
+  ],
+  "Belgium": [
+    {
+      "name": "Kevin De Bruyne",
+      "position": "MF",
+      "overall": 88,
+      "age": 35,
+      "club": "Manchester City",
+      "value_millions": 30,
+      "caps": 105,
+      "goals": 28
+    },
+    {
+      "name": "Romelu Lukaku",
+      "position": "FW",
+      "overall": 84,
+      "age": 33,
+      "club": "Napoli",
+      "value_millions": 20,
+      "caps": 120,
+      "goals": 85
+    },
+    {
+      "name": "Jérémy Doku",
+      "position": "FW",
+      "overall": 84,
+      "age": 22,
+      "club": "Manchester City",
+      "value_millions": 65,
+      "caps": 25,
+      "goals": 5
+    },
+    {
+      "name": "Leandro Trossard",
+      "position": "FW",
+      "overall": 84,
+      "age": 30,
+      "club": "Arsenal",
+      "value_millions": 40,
+      "caps": 35,
+      "goals": 10
+    },
+    {
+      "name": "Youri Tielemans",
+      "position": "MF",
+      "overall": 83,
+      "age": 28,
+      "club": "Aston Villa",
+      "value_millions": 35,
+      "caps": 70,
+      "goals": 10
+    },
+    {
+      "name": "Amadou Onana",
+      "position": "MF",
+      "overall": 83,
+      "age": 24,
+      "club": "Aston Villa",
+      "value_millions": 55,
+      "caps": 20,
+      "goals": 4
+    },
+    {
+      "name": "Wout Faes",
+      "position": "DF",
+      "overall": 83,
+      "age": 27,
+      "club": "Leicester",
+      "value_millions": 30,
+      "caps": 15,
+      "goals": 1
+    },
+    {
+      "name": "Arthur Theate",
+      "position": "DF",
+      "overall": 82,
+      "age": 25,
+      "club": "Rennes",
+      "value_millions": 25,
+      "caps": 15,
+      "goals": 1
+    },
+    {
+      "name": "Thibaut Courtois",
+      "position": "GK",
+      "overall": 89,
+      "age": 34,
+      "club": "Real Madrid",
+      "value_millions": 30,
+      "caps": 100,
+      "goals": 0
+    },
+    {
+      "name": "Charles De Ketelaere",
+      "position": "MF",
+      "overall": 82,
+      "age": 24,
+      "club": "Atalanta",
+      "value_millions": 35,
+      "caps": 20,
+      "goals": 4
+    }
+  ],
+  "Colombia": [
+    {
+      "name": "James Rodriguez",
+      "position": "MF",
+      "overall": 82,
+      "age": 34,
+      "club": "Rayo Vallecano",
+      "value_millions": 5,
+      "caps": 105,
+      "goals": 28
+    },
+    {
+      "name": "Luis Diaz",
+      "position": "FW",
+      "overall": 86,
+      "age": 29,
+      "club": "Liverpool",
+      "value_millions": 75,
+      "caps": 45,
+      "goals": 14
+    },
+    {
+      "name": "Jhon Duran",
+      "position": "FW",
+      "overall": 82,
+      "age": 22,
+      "club": "Aston Villa",
+      "value_millions": 50,
+      "caps": 15,
+      "goals": 6
+    },
+    {
+      "name": "Rafael Santos Borre",
+      "position": "FW",
+      "overall": 81,
+      "age": 29,
+      "club": "Werder Bremen",
+      "value_millions": 15,
+      "caps": 40,
+      "goals": 12
+    },
+    {
+      "name": "Miguel Borja",
+      "position": "FW",
+      "overall": 80,
+      "age": 32,
+      "club": "River Plate",
+      "value_millions": 8,
+      "caps": 35,
+      "goals": 14
+    },
+    {
+      "name": "Juan Cuadrado",
+      "position": "MF",
+      "overall": 81,
+      "age": 37,
+      "club": "Atalanta",
+      "value_millions": 3,
+      "caps": 115,
+      "goals": 11
+    },
+    {
+      "name": "Yerry Mina",
+      "position": "DF",
+      "overall": 80,
+      "age": 31,
+      "club": "Fiorentina",
+      "value_millions": 10,
+      "caps": 45,
+      "goals": 6
+    },
+    {
+      "name": "Davinson Sanchez",
+      "position": "DF",
+      "overall": 81,
+      "age": 29,
+      "club": "Galatasaray",
+      "value_millions": 15,
+      "caps": 50,
+      "goals": 2
+    },
+    {
+      "name": "Cristian Zapata",
+      "position": "DF",
+      "overall": 80,
+      "age": 39,
+      "club": "Nacional",
+      "value_millions": 1,
+      "caps": 70,
+      "goals": 3
+    },
+    {
+      "name": "David Ospina",
+      "position": "GK",
+      "overall": 81,
+      "age": 37,
+      "club": "Al Nassr",
+      "value_millions": 2,
+      "caps": 110,
+      "goals": 0
+    }
+  ],
+  "Japan": [
+    {
+      "name": "Takefusa Kubo",
+      "position": "FW",
+      "overall": 84,
+      "age": 24,
+      "club": "Real Sociedad",
+      "value_millions": 50,
+      "caps": 40,
+      "goals": 10
+    },
+    {
+      "name": "Daichi Kamada",
+      "position": "MF",
+      "overall": 82,
+      "age": 29,
+      "club": "Crystal Palace",
+      "value_millions": 15,
+      "caps": 50,
+      "goals": 10
+    },
+    {
+      "name": "Junya Ito",
+      "position": "FW",
+      "overall": 82,
+      "age": 32,
+      "club": "Reims",
+      "value_millions": 10,
+      "caps": 55,
+      "goals": 12
+    },
+    {
+      "name": "Kaoru Mitoma",
+      "position": "FW",
+      "overall": 83,
+      "age": 28,
+      "club": "Brighton",
+      "value_millions": 50,
+      "caps": 25,
+      "goals": 7
+    },
+    {
+      "name": "Wataru Endo",
+      "position": "MF",
+      "overall": 82,
+      "age": 32,
+      "club": "Liverpool",
+      "value_millions": 15,
+      "caps": 60,
+      "goals": 5
+    },
+    {
+      "name": "Ao Tanaka",
+      "position": "MF",
+      "overall": 81,
+      "age": 26,
+      "club": "Fortuna Dusseldorf",
+      "value_millions": 12,
+      "caps": 30,
+      "goals": 4
+    },
+    {
+      "name": "Ko Itakura",
+      "position": "DF",
+      "overall": 82,
+      "age": 28,
+      "club": "Borussia Monchengladbach",
+      "value_millions": 15,
+      "caps": 25,
+      "goals": 2
+    },
+    {
+      "name": "Tomiyasu Takehiro",
+      "position": "DF",
+      "overall": 81,
+      "age": 27,
+      "club": "Arsenal",
+      "value_millions": 20,
+      "caps": 40,
+      "goals": 2
+    },
+    {
+      "name": "Popa Shuichi",
+      "position": "GK",
+      "overall": 82,
+      "age": 27,
+      "club": "Real Sociedad",
+      "value_millions": 15,
+      "caps": 15,
+      "goals": 0
+    },
+    {
+      "name": "Takumi Minamino",
+      "position": "FW",
+      "overall": 80,
+      "age": 31,
+      "club": "Monaco",
+      "value_millions": 10,
+      "caps": 55,
+      "goals": 14
+    }
+  ],
+  "Morocco": [
+    {
+      "name": "Achraf Hakimi",
+      "position": "DF",
+      "overall": 86,
+      "age": 27,
+      "club": "PSG",
+      "value_millions": 65,
+      "caps": 70,
+      "goals": 10
+    },
+    {
+      "name": "Hakim Ziyech",
+      "position": "MF",
+      "overall": 82,
+      "age": 33,
+      "club": "Galatasaray",
+      "value_millions": 8,
+      "caps": 65,
+      "goals": 20
+    },
+    {
+      "name": "Youssef En-Nesyri",
+      "position": "FW",
+      "overall": 82,
+      "age": 28,
+      "club": "Fenerbahce",
+      "value_millions": 20,
+      "caps": 60,
+      "goals": 25
+    },
+    {
+      "name": "Sofyan Amrabat",
+      "position": "MF",
+      "overall": 82,
+      "age": 29,
+      "club": "Fenerbahce",
+      "value_millions": 15,
+      "caps": 55,
+      "goals": 1
+    },
+    {
+      "name": "Nayef Aguerd",
+      "position": "DF",
+      "overall": 83,
+      "age": 29,
+      "club": "West Ham",
+      "value_millions": 30,
+      "caps": 45,
+      "goals": 3
+    },
+    {
+      "name": "Romain Saiss",
+      "position": "DF",
+      "overall": 81,
+      "age": 35,
+      "club": "Al Sadd",
+      "value_millions": 3,
+      "caps": 75,
+      "goals": 5
+    },
+    {
+      "name": "Noussair Mazraoui",
+      "position": "DF",
+      "overall": 83,
+      "age": 28,
+      "club": "Barcelona",
+      "value_millions": 30,
+      "caps": 30,
+      "goals": 3
+    },
+    {
+      "name": "Azzedine Ounahi",
+      "position": "MF",
+      "overall": 81,
+      "age": 25,
+      "club": "Marseille",
+      "value_millions": 20,
+      "caps": 30,
+      "goals": 4
+    },
+    {
+      "name": "Yassine Bounou",
+      "position": "GK",
+      "overall": 84,
+      "age": 35,
+      "club": "Al Hilal",
+      "value_millions": 10,
+      "caps": 55,
+      "goals": 0
+    },
+    {
+      "name": "Abderazak Hamdallah",
+      "position": "FW",
+      "overall": 79,
+      "age": 35,
+      "club": "Al Ittihad",
+      "value_millions": 3,
+      "caps": 25,
+      "goals": 12
+    }
+  ],
+  "Uruguay": [
+    {
+      "name": "Federico Valverde",
+      "position": "MF",
+      "overall": 89,
+      "age": 27,
+      "club": "Real Madrid",
+      "value_millions": 100,
+      "caps": 60,
+      "goals": 10
+    },
+    {
+      "name": "Ronald Araujo",
+      "position": "DF",
+      "overall": 86,
+      "age": 27,
+      "club": "Barcelona",
+      "value_millions": 70,
+      "caps": 25,
+      "goals": 2
+    },
+    {
+      "name": "Darwin Nunez",
+      "position": "FW",
+      "overall": 85,
+      "age": 27,
+      "club": "Liverpool",
+      "value_millions": 70,
+      "caps": 40,
+      "goals": 18
+    },
+    {
+      "name": "Rodrigo Bentancur",
+      "position": "MF",
+      "overall": 84,
+      "age": 29,
+      "club": "Tottenham",
+      "value_millions": 35,
+      "caps": 60,
+      "goals": 4
+    },
+    {
+      "name": "Nicolas de la Cruz",
+      "position": "MF",
+      "overall": 83,
+      "age": 28,
+      "club": "Flamengo",
+      "value_millions": 20,
+      "caps": 35,
+      "goals": 5
+    },
+    {
+      "name": "Nahitan Nandez",
+      "position": "MF",
+      "overall": 81,
+      "age": 30,
+      "club": "Cagliari",
+      "value_millions": 10,
+      "caps": 50,
+      "goals": 3
+    },
+    {
+      "name": "Matias Vina",
+      "position": "DF",
+      "overall": 80,
+      "age": 27,
+      "club": "Roma",
+      "value_millions": 12,
+      "caps": 30,
+      "goals": 2
+    },
+    {
+      "name": "Sebastian Coates",
+      "position": "DF",
+      "overall": 80,
+      "age": 35,
+      "club": "Nacional",
+      "value_millions": 2,
+      "caps": 55,
+      "goals": 4
+    },
+    {
+      "name": "Sergio Rochet",
+      "position": "GK",
+      "overall": 82,
+      "age": 33,
+      "club": "Nacional",
+      "value_millions": 5,
+      "caps": 20,
+      "goals": 0
+    },
+    {
+      "name": "Edinson Cavani",
+      "position": "FW",
+      "overall": 81,
+      "age": 39,
+      "club": "Boca Juniors",
+      "value_millions": 3,
+      "caps": 140,
+      "goals": 60
+    }
+  ],
+  "Croatia": [
+    {
+      "name": "Luka Modric",
+      "position": "MF",
+      "overall": 85,
+      "age": 40,
+      "club": "Real Madrid",
+      "value_millions": 5,
+      "caps": 180,
+      "goals": 28
+    },
+    {
+      "name": "Mateo Kovacic",
+      "position": "MF",
+      "overall": 84,
+      "age": 32,
+      "club": "Manchester City",
+      "value_millions": 30,
+      "caps": 100,
+      "goals": 5
+    },
+    {
+      "name": "Marcelo Brozovic",
+      "position": "MF",
+      "overall": 83,
+      "age": 33,
+      "club": "Al Nassr",
+      "value_millions": 8,
+      "caps": 95,
+      "goals": 7
+    },
+    {
+      "name": "Ivan Perisic",
+      "position": "FW",
+      "overall": 82,
+      "age": 37,
+      "club": "Hajduk Split",
+      "value_millions": 2,
+      "caps": 135,
+      "goals": 35
+    },
+    {
+      "name": "Ante Rebic",
+      "position": "FW",
+      "overall": 81,
+      "age": 32,
+      "club": "AC Milan",
+      "value_millions": 10,
+      "caps": 45,
+      "goals": 8
+    },
+    {
+      "name": "Joško Gvardiol",
+      "position": "DF",
+      "overall": 86,
+      "age": 24,
+      "club": "Manchester City",
+      "value_millions": 80,
+      "caps": 30,
+      "goals": 3
+    },
+    {
+      "name": "Dejan Lovren",
+      "position": "DF",
+      "overall": 80,
+      "age": 36,
+      "club": "Lyon",
+      "value_millions": 3,
+      "caps": 80,
+      "goals": 5
+    },
+    {
+      "name": "Domagoj Vida",
+      "position": "DF",
+      "overall": 79,
+      "age": 37,
+      "club": "AEK Athens",
+      "value_millions": 2,
+      "caps": 100,
+      "goals": 5
+    },
+    {
+      "name": "Dominik Livakovic",
+      "position": "GK",
+      "overall": 83,
+      "age": 31,
+      "club": "Fenerbahce",
+      "value_millions": 15,
+      "caps": 40,
+      "goals": 0
+    },
+    {
+      "name": "Ante Budimir",
+      "position": "FW",
+      "overall": 81,
+      "age": 34,
+      "club": "Osasuna",
+      "value_millions": 8,
+      "caps": 30,
+      "goals": 10
+    }
+  ],
+  "South Korea": [
+    {
+      "name": "Son Heung-min",
+      "position": "FW",
+      "overall": 87,
+      "age": 33,
+      "club": "Tottenham",
+      "value_millions": 40,
+      "caps": 130,
+      "goals": 50
+    },
+    {
+      "name": "Kim Min-jae",
+      "position": "DF",
+      "overall": 85,
+      "age": 29,
+      "club": "Bayern Munich",
+      "value_millions": 60,
+      "caps": 55,
+      "goals": 4
+    },
+    {
+      "name": "Lee Kang-in",
+      "position": "MF",
+      "overall": 83,
+      "age": 24,
+      "club": "PSG",
+      "value_millions": 40,
+      "caps": 30,
+      "goals": 7
+    },
+    {
+      "name": "Hwang Hee-chan",
+      "position": "FW",
+      "overall": 82,
+      "age": 29,
+      "club": "Wolves",
+      "value_millions": 20,
+      "caps": 60,
+      "goals": 14
+    },
+    {
+      "name": "Cho Gue-sung",
+      "position": "FW",
+      "overall": 80,
+      "age": 28,
+      "club": "Midtjylland",
+      "value_millions": 8,
+      "caps": 40,
+      "goals": 12
+    },
+    {
+      "name": "Jung Woo-young",
+      "position": "MF",
+      "overall": 81,
+      "age": 26,
+      "club": "Al Sadd",
+      "value_millions": 10,
+      "caps": 45,
+      "goals": 6
+    },
+    {
+      "name": "Hong Chul",
+      "position": "DF",
+      "overall": 80,
+      "age": 33,
+      "club": "Ulsan HD",
+      "value_millions": 3,
+      "caps": 50,
+      "goals": 3
+    },
+    {
+      "name": "Kim Young-gwon",
+      "position": "DF",
+      "overall": 80,
+      "age": 35,
+      "club": "Ulsan HD",
+      "value_millions": 2,
+      "caps": 95,
+      "goals": 7
+    },
+    {
+      "name": "Jo Hyeon-woo",
+      "position": "GK",
+      "overall": 81,
+      "age": 34,
+      "club": "Ulsan HD",
+      "value_millions": 3,
+      "caps": 40,
+      "goals": 0
+    },
+    {
+      "name": "Hwang Ui-jo",
+      "position": "FW",
+      "overall": 80,
+      "age": 33,
+      "club": "Olympiacos",
+      "value_millions": 5,
+      "caps": 55,
+      "goals": 18
+    }
+  ],
+  "Mexico": [
+    {
+      "name": "Hirving Lozano",
+      "position": "FW",
+      "overall": 82,
+      "age": 30,
+      "club": "San Diego FC",
+      "value_millions": 15,
+      "caps": 70,
+      "goals": 18
+    },
+    {
+      "name": "Raul Jimenez",
+      "position": "FW",
+      "overall": 81,
+      "age": 35,
+      "club": "Fulham",
+      "value_millions": 8,
+      "caps": 105,
+      "goals": 35
+    },
+    {
+      "name": "Edson Alvarez",
+      "position": "MF",
+      "overall": 83,
+      "age": 28,
+      "club": "West Ham",
+      "value_millions": 35,
+      "caps": 75,
+      "goals": 5
+    },
+    {
+      "name": "Carlos Rodriguez",
+      "position": "MF",
+      "overall": 80,
+      "age": 28,
+      "club": "Cruz Azul",
+      "value_millions": 8,
+      "caps": 40,
+      "goals": 4
+    },
+    {
+      "name": "Jesus Gallardo",
+      "position": "DF",
+      "overall": 80,
+      "age": 31,
+      "club": "Monterrey",
+      "value_millions": 6,
+      "caps": 80,
+      "goals": 3
+    },
+    {
+      "name": "Cesar Montes",
+      "position": "DF",
+      "overall": 81,
+      "age": 29,
+      "club": "Espanyol",
+      "value_millions": 10,
+      "caps": 45,
+      "goals": 3
+    },
+    {
+      "name": "Johan Vasquez",
+      "position": "DF",
+      "overall": 80,
+      "age": 27,
+      "club": "Genoa",
+      "value_millions": 12,
+      "caps": 25,
+      "goals": 1
+    },
+    {
+      "name": "Nestor Araujo",
+      "position": "DF",
+      "overall": 80,
+      "age": 34,
+      "club": "Club America",
+      "value_millions": 3,
+      "caps": 65,
+      "goals": 3
+    },
+    {
+      "name": "Guillermo Ochoa",
+      "position": "GK",
+      "overall": 80,
+      "age": 41,
+      "club": "Club America",
+      "value_millions": 1,
+      "caps": 150,
+      "goals": 0
+    },
+    {
+      "name": "Alexis Vega",
+      "position": "FW",
+      "overall": 80,
+      "age": 28,
+      "club": "Chivas",
+      "value_millions": 10,
+      "caps": 35,
+      "goals": 8
+    }
+  ],
+  "South Africa": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 72,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 3,
+      "caps": 73,
+      "goals": 1
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 73,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 10,
+      "caps": 38,
+      "goals": 0
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 74,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 9,
+      "caps": 10,
+      "goals": 0
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 76,
+      "age": 31,
+      "club": "Various",
+      "value_millions": 11,
+      "caps": 8,
+      "goals": 0
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 78,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 20,
+      "caps": 22,
+      "goals": 0
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 78,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 11,
+      "caps": 11,
+      "goals": 1
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 75,
+      "age": 32,
+      "club": "Various",
+      "value_millions": 18,
+      "caps": 10,
+      "goals": 2
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 75,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 13,
+      "caps": 67,
+      "goals": 3
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 77,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 9,
+      "caps": 79,
+      "goals": 12
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 76,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 8,
+      "caps": 70,
+      "goals": 11
+    }
+  ],
+  "Czechia": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 76,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 11,
+      "caps": 24,
+      "goals": 0
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 74,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 14,
+      "caps": 26,
+      "goals": 0
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 76,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 14,
+      "caps": 38,
+      "goals": 0
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 72,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 5,
+      "caps": 77,
+      "goals": 2
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 78,
+      "age": 34,
+      "club": "Various",
+      "value_millions": 18,
+      "caps": 76,
+      "goals": 1
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 73,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 9,
+      "caps": 25,
+      "goals": 6
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 76,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 16,
+      "caps": 67,
+      "goals": 7
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 77,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 20,
+      "caps": 30,
+      "goals": 4
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 78,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 21,
+      "caps": 53,
+      "goals": 15
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 77,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 12,
+      "caps": 7,
+      "goals": 1
+    }
+  ],
+  "Canada": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 76,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 21,
+      "caps": 40,
+      "goals": 0
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 77,
+      "age": 25,
+      "club": "Various",
+      "value_millions": 19,
+      "caps": 71,
+      "goals": 3
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 77,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 12,
+      "caps": 39,
+      "goals": 0
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 79,
+      "age": 34,
+      "club": "Various",
+      "value_millions": 27,
+      "caps": 61,
+      "goals": 1
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 79,
+      "age": 25,
+      "club": "Various",
+      "value_millions": 22,
+      "caps": 27,
+      "goals": 0
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 77,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 21,
+      "caps": 21,
+      "goals": 5
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 78,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 17,
+      "caps": 17,
+      "goals": 3
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 75,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 10,
+      "caps": 73,
+      "goals": 16
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 76,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 9,
+      "caps": 24,
+      "goals": 4
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 79,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 27,
+      "caps": 25,
+      "goals": 4
+    }
+  ],
+  "Switzerland": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 84,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 26,
+      "caps": 52,
+      "goals": 2
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 83,
+      "age": 31,
+      "club": "Various",
+      "value_millions": 26,
+      "caps": 29,
+      "goals": 1
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 81,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 23,
+      "caps": 64,
+      "goals": 2
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 78,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 16,
+      "caps": 55,
+      "goals": 1
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 78,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 18,
+      "caps": 36,
+      "goals": 0
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 84,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 26,
+      "caps": 59,
+      "goals": 16
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 78,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 22,
+      "caps": 71,
+      "goals": 5
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 79,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 24,
+      "caps": 42,
+      "goals": 7
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 78,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 18,
+      "caps": 72,
+      "goals": 11
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 81,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 29,
+      "caps": 43,
+      "goals": 6
+    }
+  ],
+  "Qatar": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 77,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 17,
+      "caps": 5,
+      "goals": 0
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 73,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 9,
+      "caps": 62,
+      "goals": 0
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 77,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 13,
+      "caps": 72,
+      "goals": 1
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 73,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 6,
+      "caps": 59,
+      "goals": 0
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 71,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 6,
+      "caps": 43,
+      "goals": 0
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 71,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 6,
+      "caps": 67,
+      "goals": 15
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 71,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 3,
+      "caps": 76,
+      "goals": 9
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 72,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 3,
+      "caps": 59,
+      "goals": 11
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 73,
+      "age": 25,
+      "club": "Various",
+      "value_millions": 2,
+      "caps": 28,
+      "goals": 1
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 75,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 18,
+      "caps": 68,
+      "goals": 18
+    }
+  ],
+  "Bosnia and Herzegovina": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 73,
+      "age": 34,
+      "club": "Various",
+      "value_millions": 4,
+      "caps": 27,
+      "goals": 0
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 78,
+      "age": 34,
+      "club": "Various",
+      "value_millions": 20,
+      "caps": 61,
+      "goals": 1
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 74,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 4,
+      "caps": 60,
+      "goals": 2
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 75,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 18,
+      "caps": 27,
+      "goals": 1
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 73,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 12,
+      "caps": 37,
+      "goals": 1
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 75,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 16,
+      "caps": 77,
+      "goals": 5
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 75,
+      "age": 34,
+      "club": "Various",
+      "value_millions": 15,
+      "caps": 11,
+      "goals": 2
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 73,
+      "age": 34,
+      "club": "Various",
+      "value_millions": 13,
+      "caps": 27,
+      "goals": 6
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 78,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 15,
+      "caps": 45,
+      "goals": 10
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 77,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 20,
+      "caps": 46,
+      "goals": 3
+    }
+  ],
+  "Scotland": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 77,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 22,
+      "caps": 41,
+      "goals": 1
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 74,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 5,
+      "caps": 35,
+      "goals": 1
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 73,
+      "age": 32,
+      "club": "Various",
+      "value_millions": 9,
+      "caps": 25,
+      "goals": 0
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 74,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 15,
+      "caps": 12,
+      "goals": 0
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 77,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 16,
+      "caps": 33,
+      "goals": 1
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 78,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 22,
+      "caps": 50,
+      "goals": 9
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 76,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 8,
+      "caps": 18,
+      "goals": 2
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 74,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 9,
+      "caps": 72,
+      "goals": 20
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 73,
+      "age": 25,
+      "club": "Various",
+      "value_millions": 7,
+      "caps": 48,
+      "goals": 11
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 72,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 10,
+      "caps": 18,
+      "goals": 3
+    }
+  ],
+  "Haiti": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 72,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 3,
+      "caps": 24,
+      "goals": 0
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 75,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 11,
+      "caps": 68,
+      "goals": 1
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 78,
+      "age": 32,
+      "club": "Various",
+      "value_millions": 19,
+      "caps": 16,
+      "goals": 0
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 73,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 7,
+      "caps": 69,
+      "goals": 2
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 74,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 4,
+      "caps": 78,
+      "goals": 2
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 72,
+      "age": 32,
+      "club": "Various",
+      "value_millions": 13,
+      "caps": 11,
+      "goals": 2
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 78,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 19,
+      "caps": 36,
+      "goals": 6
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 75,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 11,
+      "caps": 58,
+      "goals": 16
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 78,
+      "age": 25,
+      "club": "Various",
+      "value_millions": 21,
+      "caps": 33,
+      "goals": 2
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 73,
+      "age": 25,
+      "club": "Various",
+      "value_millions": 3,
+      "caps": 49,
+      "goals": 3
+    }
+  ],
+  "USA": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 73,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 15,
+      "caps": 45,
+      "goals": 1
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 76,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 10,
+      "caps": 44,
+      "goals": 0
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 76,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 17,
+      "caps": 55,
+      "goals": 1
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 75,
+      "age": 25,
+      "club": "Various",
+      "value_millions": 10,
+      "caps": 70,
+      "goals": 1
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 75,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 17,
+      "caps": 6,
+      "goals": 0
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 78,
+      "age": 31,
+      "club": "Various",
+      "value_millions": 13,
+      "caps": 7,
+      "goals": 0
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 76,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 8,
+      "caps": 17,
+      "goals": 1
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 76,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 21,
+      "caps": 55,
+      "goals": 11
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 72,
+      "age": 32,
+      "club": "Various",
+      "value_millions": 1,
+      "caps": 42,
+      "goals": 6
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 74,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 12,
+      "caps": 20,
+      "goals": 5
+    }
+  ],
+  "Australia": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 74,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 13,
+      "caps": 79,
+      "goals": 3
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 79,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 16,
+      "caps": 74,
+      "goals": 3
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 74,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 6,
+      "caps": 11,
+      "goals": 0
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 76,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 12,
+      "caps": 52,
+      "goals": 2
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 76,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 9,
+      "caps": 10,
+      "goals": 0
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 79,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 16,
+      "caps": 26,
+      "goals": 6
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 75,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 16,
+      "caps": 32,
+      "goals": 4
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 77,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 11,
+      "caps": 56,
+      "goals": 9
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 74,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 4,
+      "caps": 32,
+      "goals": 2
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 74,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 5,
+      "caps": 63,
+      "goals": 12
+    }
+  ],
+  "Paraguay": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 79,
+      "age": 34,
+      "club": "Various",
+      "value_millions": 25,
+      "caps": 53,
+      "goals": 2
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 81,
+      "age": 32,
+      "club": "Various",
+      "value_millions": 19,
+      "caps": 14,
+      "goals": 0
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 77,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 12,
+      "caps": 52,
+      "goals": 1
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 76,
+      "age": 31,
+      "club": "Various",
+      "value_millions": 18,
+      "caps": 71,
+      "goals": 1
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 81,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 22,
+      "caps": 47,
+      "goals": 0
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 81,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 20,
+      "caps": 28,
+      "goals": 5
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 76,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 10,
+      "caps": 27,
+      "goals": 3
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 81,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 29,
+      "caps": 48,
+      "goals": 3
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 76,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 8,
+      "caps": 71,
+      "goals": 12
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 80,
+      "age": 34,
+      "club": "Various",
+      "value_millions": 21,
+      "caps": 5,
+      "goals": 1
+    }
+  ],
+  "TÃ¼rkiye": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 74,
+      "age": 25,
+      "club": "Various",
+      "value_millions": 8,
+      "caps": 45,
+      "goals": 1
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 72,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 7,
+      "caps": 50,
+      "goals": 1
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 77,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 15,
+      "caps": 22,
+      "goals": 0
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 75,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 18,
+      "caps": 54,
+      "goals": 2
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 74,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 13,
+      "caps": 31,
+      "goals": 1
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 72,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 7,
+      "caps": 24,
+      "goals": 1
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 77,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 14,
+      "caps": 69,
+      "goals": 11
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 76,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 13,
+      "caps": 43,
+      "goals": 8
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 77,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 16,
+      "caps": 12,
+      "goals": 1
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 73,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 11,
+      "caps": 30,
+      "goals": 7
+    }
+  ],
+  "Ecuador": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 83,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 24,
+      "caps": 43,
+      "goals": 0
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 80,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 21,
+      "caps": 30,
+      "goals": 1
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 80,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 25,
+      "caps": 5,
+      "goals": 0
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 82,
+      "age": 32,
+      "club": "Various",
+      "value_millions": 33,
+      "caps": 66,
+      "goals": 1
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 83,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 34,
+      "caps": 26,
+      "goals": 0
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 82,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 27,
+      "caps": 60,
+      "goals": 12
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 79,
+      "age": 34,
+      "club": "Various",
+      "value_millions": 27,
+      "caps": 69,
+      "goals": 11
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 80,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 27,
+      "caps": 59,
+      "goals": 12
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 80,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 26,
+      "caps": 79,
+      "goals": 15
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 79,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 23,
+      "caps": 78,
+      "goals": 23
+    }
+  ],
+  "CÃ´te d'Ivoire": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 75,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 16,
+      "caps": 18,
+      "goals": 0
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 75,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 7,
+      "caps": 31,
+      "goals": 1
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 77,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 18,
+      "caps": 53,
+      "goals": 0
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 72,
+      "age": 31,
+      "club": "Various",
+      "value_millions": 1,
+      "caps": 36,
+      "goals": 0
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 76,
+      "age": 32,
+      "club": "Various",
+      "value_millions": 9,
+      "caps": 41,
+      "goals": 0
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 76,
+      "age": 31,
+      "club": "Various",
+      "value_millions": 9,
+      "caps": 68,
+      "goals": 4
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 74,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 11,
+      "caps": 33,
+      "goals": 5
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 75,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 10,
+      "caps": 77,
+      "goals": 14
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 73,
+      "age": 25,
+      "club": "Various",
+      "value_millions": 7,
+      "caps": 14,
+      "goals": 3
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 77,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 22,
+      "caps": 55,
+      "goals": 13
+    }
+  ],
+  "CuraÃ§ao": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 76,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 14,
+      "caps": 30,
+      "goals": 0
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 75,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 11,
+      "caps": 65,
+      "goals": 1
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 72,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 11,
+      "caps": 40,
+      "goals": 1
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 78,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 12,
+      "caps": 44,
+      "goals": 0
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 73,
+      "age": 25,
+      "club": "Various",
+      "value_millions": 12,
+      "caps": 66,
+      "goals": 2
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 72,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 13,
+      "caps": 38,
+      "goals": 2
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 72,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 9,
+      "caps": 59,
+      "goals": 8
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 78,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 19,
+      "caps": 11,
+      "goals": 1
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 78,
+      "age": 25,
+      "club": "Various",
+      "value_millions": 13,
+      "caps": 72,
+      "goals": 20
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 74,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 9,
+      "caps": 72,
+      "goals": 11
+    }
+  ],
+  "Sweden": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 77,
+      "age": 32,
+      "club": "Various",
+      "value_millions": 11,
+      "caps": 68,
+      "goals": 2
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 72,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 2,
+      "caps": 29,
+      "goals": 1
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 74,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 14,
+      "caps": 70,
+      "goals": 2
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 72,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 3,
+      "caps": 14,
+      "goals": 0
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 72,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 1,
+      "caps": 16,
+      "goals": 0
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 77,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 15,
+      "caps": 63,
+      "goals": 5
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 73,
+      "age": 31,
+      "club": "Various",
+      "value_millions": 11,
+      "caps": 47,
+      "goals": 7
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 75,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 19,
+      "caps": 34,
+      "goals": 6
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 75,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 18,
+      "caps": 56,
+      "goals": 8
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 75,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 13,
+      "caps": 47,
+      "goals": 10
+    }
+  ],
+  "Tunisia": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 77,
+      "age": 25,
+      "club": "Various",
+      "value_millions": 17,
+      "caps": 54,
+      "goals": 1
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 82,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 31,
+      "caps": 14,
+      "goals": 0
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 82,
+      "age": 32,
+      "club": "Various",
+      "value_millions": 23,
+      "caps": 58,
+      "goals": 2
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 81,
+      "age": 34,
+      "club": "Various",
+      "value_millions": 22,
+      "caps": 73,
+      "goals": 3
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 81,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 23,
+      "caps": 20,
+      "goals": 0
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 80,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 21,
+      "caps": 77,
+      "goals": 8
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 81,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 29,
+      "caps": 64,
+      "goals": 6
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 78,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 18,
+      "caps": 41,
+      "goals": 6
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 80,
+      "age": 32,
+      "club": "Various",
+      "value_millions": 24,
+      "caps": 9,
+      "goals": 1
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 76,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 13,
+      "caps": 41,
+      "goals": 3
+    }
+  ],
+  "IR Iran": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 78,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 12,
+      "caps": 22,
+      "goals": 1
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 73,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 13,
+      "caps": 25,
+      "goals": 0
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 74,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 9,
+      "caps": 35,
+      "goals": 0
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 73,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 9,
+      "caps": 56,
+      "goals": 1
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 72,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 7,
+      "caps": 41,
+      "goals": 0
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 76,
+      "age": 34,
+      "club": "Various",
+      "value_millions": 7,
+      "caps": 61,
+      "goals": 3
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 75,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 11,
+      "caps": 76,
+      "goals": 20
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 76,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 10,
+      "caps": 34,
+      "goals": 9
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 73,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 14,
+      "caps": 28,
+      "goals": 2
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 74,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 8,
+      "caps": 54,
+      "goals": 13
+    }
+  ],
+  "Egypt": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 78,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 25,
+      "caps": 50,
+      "goals": 1
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 80,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 22,
+      "caps": 76,
+      "goals": 2
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 81,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 26,
+      "caps": 61,
+      "goals": 2
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 81,
+      "age": 31,
+      "club": "Various",
+      "value_millions": 26,
+      "caps": 63,
+      "goals": 1
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 78,
+      "age": 32,
+      "club": "Various",
+      "value_millions": 25,
+      "caps": 49,
+      "goals": 2
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 80,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 15,
+      "caps": 69,
+      "goals": 20
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 81,
+      "age": 34,
+      "club": "Various",
+      "value_millions": 22,
+      "caps": 56,
+      "goals": 3
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 79,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 15,
+      "caps": 19,
+      "goals": 2
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 83,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 34,
+      "caps": 17,
+      "goals": 4
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 79,
+      "age": 31,
+      "club": "Various",
+      "value_millions": 19,
+      "caps": 78,
+      "goals": 20
+    }
+  ],
+  "New Zealand": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 76,
+      "age": 32,
+      "club": "Various",
+      "value_millions": 19,
+      "caps": 75,
+      "goals": 1
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 78,
+      "age": 32,
+      "club": "Various",
+      "value_millions": 20,
+      "caps": 10,
+      "goals": 0
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 73,
+      "age": 34,
+      "club": "Various",
+      "value_millions": 15,
+      "caps": 68,
+      "goals": 2
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 72,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 1,
+      "caps": 41,
+      "goals": 1
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 76,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 13,
+      "caps": 21,
+      "goals": 0
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 77,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 17,
+      "caps": 61,
+      "goals": 10
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 77,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 11,
+      "caps": 9,
+      "goals": 0
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 72,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 5,
+      "caps": 68,
+      "goals": 17
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 77,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 16,
+      "caps": 6,
+      "goals": 1
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 78,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 18,
+      "caps": 48,
+      "goals": 13
+    }
+  ],
+  "Saudi Arabia": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 73,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 15,
+      "caps": 31,
+      "goals": 0
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 74,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 6,
+      "caps": 26,
+      "goals": 0
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 76,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 18,
+      "caps": 50,
+      "goals": 0
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 77,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 14,
+      "caps": 18,
+      "goals": 0
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 78,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 11,
+      "caps": 23,
+      "goals": 1
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 74,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 13,
+      "caps": 72,
+      "goals": 12
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 77,
+      "age": 34,
+      "club": "Various",
+      "value_millions": 19,
+      "caps": 63,
+      "goals": 17
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 75,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 10,
+      "caps": 15,
+      "goals": 2
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 72,
+      "age": 25,
+      "club": "Various",
+      "value_millions": 1,
+      "caps": 34,
+      "goals": 6
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 78,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 14,
+      "caps": 47,
+      "goals": 3
+    }
+  ],
+  "Cabo Verde": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 77,
+      "age": 34,
+      "club": "Various",
+      "value_millions": 15,
+      "caps": 70,
+      "goals": 3
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 76,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 9,
+      "caps": 66,
+      "goals": 2
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 78,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 21,
+      "caps": 44,
+      "goals": 1
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 76,
+      "age": 34,
+      "club": "Various",
+      "value_millions": 17,
+      "caps": 37,
+      "goals": 1
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 76,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 18,
+      "caps": 20,
+      "goals": 0
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 75,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 8,
+      "caps": 40,
+      "goals": 10
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 73,
+      "age": 25,
+      "club": "Various",
+      "value_millions": 11,
+      "caps": 32,
+      "goals": 8
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 72,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 1,
+      "caps": 9,
+      "goals": 2
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 77,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 18,
+      "caps": 65,
+      "goals": 9
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 78,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 17,
+      "caps": 44,
+      "goals": 13
+    }
+  ],
+  "Senegal": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 83,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 28,
+      "caps": 59,
+      "goals": 1
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 79,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 15,
+      "caps": 29,
+      "goals": 1
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 78,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 17,
+      "caps": 8,
+      "goals": 0
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 82,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 30,
+      "caps": 5,
+      "goals": 0
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 83,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 28,
+      "caps": 43,
+      "goals": 2
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 84,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 24,
+      "caps": 16,
+      "goals": 3
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 83,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 31,
+      "caps": 43,
+      "goals": 5
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 81,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 24,
+      "caps": 78,
+      "goals": 19
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 80,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 22,
+      "caps": 49,
+      "goals": 12
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 80,
+      "age": 34,
+      "club": "Various",
+      "value_millions": 23,
+      "caps": 45,
+      "goals": 10
+    }
+  ],
+  "Iraq": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 74,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 16,
+      "caps": 53,
+      "goals": 1
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 75,
+      "age": 32,
+      "club": "Various",
+      "value_millions": 11,
+      "caps": 20,
+      "goals": 0
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 74,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 5,
+      "caps": 12,
+      "goals": 0
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 74,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 8,
+      "caps": 12,
+      "goals": 0
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 77,
+      "age": 31,
+      "club": "Various",
+      "value_millions": 15,
+      "caps": 60,
+      "goals": 2
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 76,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 21,
+      "caps": 54,
+      "goals": 3
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 72,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 1,
+      "caps": 16,
+      "goals": 4
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 78,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 24,
+      "caps": 16,
+      "goals": 1
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 74,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 15,
+      "caps": 26,
+      "goals": 1
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 73,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 8,
+      "caps": 64,
+      "goals": 9
+    }
+  ],
+  "Norway": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 74,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 10,
+      "caps": 17,
+      "goals": 0
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 74,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 10,
+      "caps": 59,
+      "goals": 0
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 74,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 16,
+      "caps": 50,
+      "goals": 0
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 76,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 18,
+      "caps": 68,
+      "goals": 2
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 75,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 19,
+      "caps": 21,
+      "goals": 0
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 77,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 22,
+      "caps": 64,
+      "goals": 11
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 75,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 18,
+      "caps": 40,
+      "goals": 4
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 77,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 13,
+      "caps": 25,
+      "goals": 5
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 77,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 22,
+      "caps": 65,
+      "goals": 14
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 78,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 25,
+      "caps": 31,
+      "goals": 3
+    }
+  ],
+  "Algeria": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 82,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 25,
+      "caps": 48,
+      "goals": 1
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 77,
+      "age": 31,
+      "club": "Various",
+      "value_millions": 17,
+      "caps": 7,
+      "goals": 0
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 78,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 20,
+      "caps": 39,
+      "goals": 1
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 81,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 21,
+      "caps": 65,
+      "goals": 0
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 78,
+      "age": 25,
+      "club": "Various",
+      "value_millions": 18,
+      "caps": 22,
+      "goals": 0
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 82,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 22,
+      "caps": 29,
+      "goals": 6
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 80,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 16,
+      "caps": 48,
+      "goals": 6
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 77,
+      "age": 25,
+      "club": "Various",
+      "value_millions": 19,
+      "caps": 54,
+      "goals": 13
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 81,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 21,
+      "caps": 54,
+      "goals": 8
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 78,
+      "age": 25,
+      "club": "Various",
+      "value_millions": 21,
+      "caps": 25,
+      "goals": 7
+    }
+  ],
+  "Austria": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 76,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 18,
+      "caps": 55,
+      "goals": 2
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 73,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 12,
+      "caps": 22,
+      "goals": 1
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 78,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 11,
+      "caps": 15,
+      "goals": 0
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 73,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 10,
+      "caps": 63,
+      "goals": 0
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 74,
+      "age": 25,
+      "club": "Various",
+      "value_millions": 13,
+      "caps": 57,
+      "goals": 1
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 78,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 14,
+      "caps": 72,
+      "goals": 5
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 78,
+      "age": 32,
+      "club": "Various",
+      "value_millions": 17,
+      "caps": 53,
+      "goals": 8
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 75,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 12,
+      "caps": 6,
+      "goals": 0
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 74,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 7,
+      "caps": 36,
+      "goals": 2
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 76,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 11,
+      "caps": 77,
+      "goals": 19
+    }
+  ],
+  "Jordan": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 73,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 9,
+      "caps": 9,
+      "goals": 0
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 74,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 15,
+      "caps": 24,
+      "goals": 0
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 74,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 17,
+      "caps": 20,
+      "goals": 0
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 70,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 1,
+      "caps": 20,
+      "goals": 0
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 74,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 12,
+      "caps": 10,
+      "goals": 0
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 75,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 7,
+      "caps": 6,
+      "goals": 0
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 70,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 5,
+      "caps": 51,
+      "goals": 3
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 72,
+      "age": 32,
+      "club": "Various",
+      "value_millions": 2,
+      "caps": 60,
+      "goals": 9
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 75,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 14,
+      "caps": 10,
+      "goals": 2
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 70,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 1,
+      "caps": 23,
+      "goals": 1
+    }
+  ],
+  "Uzbekistan": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 72,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 1,
+      "caps": 35,
+      "goals": 1
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 76,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 11,
+      "caps": 11,
+      "goals": 0
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 74,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 6,
+      "caps": 34,
+      "goals": 0
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 76,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 10,
+      "caps": 75,
+      "goals": 2
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 75,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 14,
+      "caps": 46,
+      "goals": 1
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 76,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 15,
+      "caps": 44,
+      "goals": 2
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 76,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 10,
+      "caps": 5,
+      "goals": 1
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 76,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 21,
+      "caps": 52,
+      "goals": 14
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 75,
+      "age": 25,
+      "club": "Various",
+      "value_millions": 12,
+      "caps": 17,
+      "goals": 4
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 78,
+      "age": 33,
+      "club": "Various",
+      "value_millions": 20,
+      "caps": 50,
+      "goals": 3
+    }
+  ],
+  "Congo DR": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 72,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 1,
+      "caps": 35,
+      "goals": 1
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 75,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 7,
+      "caps": 69,
+      "goals": 2
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 74,
+      "age": 34,
+      "club": "Various",
+      "value_millions": 7,
+      "caps": 56,
+      "goals": 1
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 73,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 13,
+      "caps": 71,
+      "goals": 1
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 73,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 14,
+      "caps": 48,
+      "goals": 2
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 75,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 14,
+      "caps": 75,
+      "goals": 20
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 77,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 16,
+      "caps": 39,
+      "goals": 4
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 77,
+      "age": 23,
+      "club": "Various",
+      "value_millions": 14,
+      "caps": 61,
+      "goals": 15
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 72,
+      "age": 32,
+      "club": "Various",
+      "value_millions": 4,
+      "caps": 47,
+      "goals": 9
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 76,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 15,
+      "caps": 34,
+      "goals": 8
+    }
+  ],
+  "Ghana": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 81,
+      "age": 34,
+      "club": "Various",
+      "value_millions": 26,
+      "caps": 76,
+      "goals": 3
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 77,
+      "age": 22,
+      "club": "Various",
+      "value_millions": 9,
+      "caps": 13,
+      "goals": 0
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 78,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 12,
+      "caps": 26,
+      "goals": 1
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 82,
+      "age": 32,
+      "club": "Various",
+      "value_millions": 26,
+      "caps": 63,
+      "goals": 1
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 78,
+      "age": 28,
+      "club": "Various",
+      "value_millions": 18,
+      "caps": 20,
+      "goals": 0
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 81,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 25,
+      "caps": 74,
+      "goals": 21
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 78,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 22,
+      "caps": 59,
+      "goals": 10
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 79,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 14,
+      "caps": 31,
+      "goals": 5
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 81,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 22,
+      "caps": 39,
+      "goals": 6
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 77,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 14,
+      "caps": 14,
+      "goals": 4
+    }
+  ],
+  "Panama": [
+    {
+      "name": "Player 1",
+      "position": "GK",
+      "overall": 75,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 5,
+      "caps": 7,
+      "goals": 0
+    },
+    {
+      "name": "Player 2",
+      "position": "DF",
+      "overall": 74,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 8,
+      "caps": 38,
+      "goals": 0
+    },
+    {
+      "name": "Player 3",
+      "position": "DF",
+      "overall": 72,
+      "age": 30,
+      "club": "Various",
+      "value_millions": 9,
+      "caps": 48,
+      "goals": 0
+    },
+    {
+      "name": "Player 4",
+      "position": "DF",
+      "overall": 75,
+      "age": 32,
+      "club": "Various",
+      "value_millions": 12,
+      "caps": 67,
+      "goals": 1
+    },
+    {
+      "name": "Player 5",
+      "position": "DF",
+      "overall": 72,
+      "age": 24,
+      "club": "Various",
+      "value_millions": 3,
+      "caps": 17,
+      "goals": 0
+    },
+    {
+      "name": "Player 6",
+      "position": "MF",
+      "overall": 76,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 8,
+      "caps": 58,
+      "goals": 15
+    },
+    {
+      "name": "Player 7",
+      "position": "MF",
+      "overall": 75,
+      "age": 26,
+      "club": "Various",
+      "value_millions": 15,
+      "caps": 11,
+      "goals": 1
+    },
+    {
+      "name": "Player 8",
+      "position": "MF",
+      "overall": 73,
+      "age": 32,
+      "club": "Various",
+      "value_millions": 8,
+      "caps": 10,
+      "goals": 2
+    },
+    {
+      "name": "Player 9",
+      "position": "FW",
+      "overall": 78,
+      "age": 29,
+      "club": "Various",
+      "value_millions": 13,
+      "caps": 17,
+      "goals": 1
+    },
+    {
+      "name": "Player 10",
+      "position": "FW",
+      "overall": 74,
+      "age": 27,
+      "club": "Various",
+      "value_millions": 4,
+      "caps": 54,
+      "goals": 16
+    }
+  ]
+}

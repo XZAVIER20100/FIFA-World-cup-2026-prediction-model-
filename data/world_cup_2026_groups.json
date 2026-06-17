@@ -1,0 +1,146 @@
+{
+  "tournament": "FIFA World Cup 2026",
+  "hosts": ["Canada", "Mexico", "USA"],
+  "total_teams": 48,
+  "format": "12 groups of 4 teams, top 2 from each group + 8 best third-placed teams advance to Round of 32",
+  "groups": {
+    "A": {
+      "teams": [
+        {"name": "Mexico", "code": "MEX", "confederation": "CONCACAF", "fifa_ranking": 16},
+        {"name": "South Korea", "code": "KOR", "confederation": "AFC", "fifa_ranking": 22},
+        {"name": "South Africa", "code": "RSA", "confederation": "CAF", "fifa_ranking": 60},
+        {"name": "Czechia", "code": "CZE", "confederation": "UEFA", "fifa_ranking": 43}
+      ]
+    },
+    "B": {
+      "teams": [
+        {"name": "Canada", "code": "CAN", "confederation": "CONCACAF", "fifa_ranking": 29},
+        {"name": "Switzerland", "code": "SUI", "confederation": "UEFA", "fifa_ranking": 18},
+        {"name": "Qatar", "code": "QAT", "confederation": "AFC", "fifa_ranking": 56},
+        {"name": "Bosnia and Herzegovina", "code": "BIH", "confederation": "UEFA", "fifa_ranking": 71}
+      ]
+    },
+    "C": {
+      "teams": [
+        {"name": "Brazil", "code": "BRA", "confederation": "CONMEBOL", "fifa_ranking": 5},
+        {"name": "Morocco", "code": "MAR", "confederation": "CAF", "fifa_ranking": 12},
+        {"name": "Scotland", "code": "SCO", "confederation": "UEFA", "fifa_ranking": 34},
+        {"name": "Haiti", "code": "HAI", "confederation": "CONCACAF", "fifa_ranking": 83}
+      ]
+    },
+    "D": {
+      "teams": [
+        {"name": "USA", "code": "USA", "confederation": "CONCACAF", "fifa_ranking": 15},
+        {"name": "Australia", "code": "AUS", "confederation": "AFC", "fifa_ranking": 27},
+        {"name": "Paraguay", "code": "PAR", "confederation": "CONMEBOL", "fifa_ranking": 40},
+        {"name": "Türkiye", "code": "TUR", "confederation": "UEFA", "fifa_ranking": 25}
+      ]
+    },
+    "E": {
+      "teams": [
+        {"name": "Germany", "code": "GER", "confederation": "UEFA", "fifa_ranking": 10},
+        {"name": "Ecuador", "code": "ECU", "confederation": "CONMEBOL", "fifa_ranking": 23},
+        {"name": "Côte d'Ivoire", "code": "CIV", "confederation": "CAF", "fifa_ranking": 37},
+        {"name": "Curaçao", "code": "CUW", "confederation": "CONCACAF", "fifa_ranking": 81}
+      ]
+    },
+    "F": {
+      "teams": [
+        {"name": "Netherlands", "code": "NED", "confederation": "UEFA", "fifa_ranking": 7},
+        {"name": "Japan", "code": "JPN", "confederation": "AFC", "fifa_ranking": 19},
+        {"name": "Sweden", "code": "SWE", "confederation": "UEFA", "fifa_ranking": 42},
+        {"name": "Tunisia", "code": "TUN", "confederation": "CAF", "fifa_ranking": 47}
+      ]
+    },
+    "G": {
+      "teams": [
+        {"name": "Belgium", "code": "BEL", "confederation": "UEFA", "fifa_ranking": 4},
+        {"name": "IR Iran", "code": "IRN", "confederation": "AFC", "fifa_ranking": 21},
+        {"name": "Egypt", "code": "EGY", "confederation": "CAF", "fifa_ranking": 36},
+        {"name": "New Zealand", "code": "NZL", "confederation": "OFC", "fifa_ranking": 103}
+      ]
+    },
+    "H": {
+      "teams": [
+        {"name": "Spain", "code": "ESP", "confederation": "UEFA", "fifa_ranking": 1},
+        {"name": "Uruguay", "code": "URU", "confederation": "CONMEBOL", "fifa_ranking": 17},
+        {"name": "Saudi Arabia", "code": "KSA", "confederation": "AFC", "fifa_ranking": 61},
+        {"name": "Cabo Verde", "code": "CPV", "confederation": "CAF", "fifa_ranking": 67}
+      ]
+    },
+    "I": {
+      "teams": [
+        {"name": "France", "code": "FRA", "confederation": "UEFA", "fifa_ranking": 3},
+        {"name": "Senegal", "code": "SEN", "confederation": "CAF", "fifa_ranking": 12},
+        {"name": "Iraq", "code": "IRQ", "confederation": "AFC", "fifa_ranking": 58},
+        {"name": "Norway", "code": "NOR", "confederation": "UEFA", "fifa_ranking": 32}
+      ]
+    },
+    "J": {
+      "teams": [
+        {"name": "Argentina", "code": "ARG", "confederation": "CONMEBOL", "fifa_ranking": 2},
+        {"name": "Algeria", "code": "ALG", "confederation": "CAF", "fifa_ranking": 28},
+        {"name": "Austria", "code": "AUT", "confederation": "UEFA", "fifa_ranking": 24},
+        {"name": "Jordan", "code": "JOR", "confederation": "AFC", "fifa_ranking": 64}
+      ]
+    },
+    "K": {
+      "teams": [
+        {"name": "Portugal", "code": "POR", "confederation": "UEFA", "fifa_ranking": 6},
+        {"name": "Colombia", "code": "COL", "confederation": "CONMEBOL", "fifa_ranking": 14},
+        {"name": "Uzbekistan", "code": "UZB", "confederation": "AFC", "fifa_ranking": 52},
+        {"name": "Congo DR", "code": "COD", "confederation": "CAF", "fifa_ranking": 48}
+      ]
+    },
+    "L": {
+      "teams": [
+        {"name": "England", "code": "ENG", "confederation": "UEFA", "fifa_ranking": 4},
+        {"name": "Croatia", "code": "CRO", "confederation": "UEFA", "fifa_ranking": 11},
+        {"name": "Ghana", "code": "GHA", "confederation": "CAF", "fifa_ranking": 72},
+        {"name": "Panama", "code": "PAN", "confederation": "CONCACAF", "fifa_ranking": 33}
+      ]
+    }
+  },
+  "knockout_stage": {
+    "round_of_32": {
+      "description": "Top 2 from each group (24 teams) + 8 best third-placed teams = 32 teams",
+      "matches": 16
+    },
+    "round_of_16": {
+      "description": "Winners of Round of 32",
+      "matches": 8
+    },
+    "quarter_finals": {
+      "description": "Winners of Round of 16",
+      "matches": 4
+    },
+    "semi_finals": {
+      "description": "Winners of Quarter-finals",
+      "matches": 2
+    },
+    "third_place_playoff": {
+      "description": "Losers of Semi-finals",
+      "matches": 1
+    },
+    "final": {
+      "description": "Winners of Semi-finals",
+      "matches": 1
+    }
+  },
+  "confederations": {
+    "AFC": "Asian Football Confederation",
+    "CAF": "Confederation of African Football",
+    "CONCACAF": "Confederation of North, Central America and Caribbean Association Football",
+    "CONMEBOL": "South American Football Confederation",
+    "OFC": "Oceania Football Confederation",
+    "UEFA": "Union of European Football Associations"
+  },
+  "qualified_teams_count": {
+    "AFC": 9,
+    "CAF": 10,
+    "CONCACAF": 9,
+    "CONMEBOL": 7,
+    "OFC": 1,
+    "UEFA": 16
+  }
+}
