@@ -25,7 +25,8 @@ AI-powered prediction model for the FIFA World Cup 2026 using machine learning. 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/world-cup-2026-predictor.git
+git clone https://github.com/XZAVIER20100/FIFA-World-cup-2026-prediction-model-
+
 cd world-cup-2026-predictor
 
 # Install dependencies
