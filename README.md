@@ -352,9 +352,8 @@ This project is for educational purposes only. The predictions are based on hist
 
 ## Contact
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com
-
+- GitHub: @XZAVIER20100
+- Email: rathodraghav086@gmail.com
 ---
 
 **Built with ❤️ for football fans worldwide**
