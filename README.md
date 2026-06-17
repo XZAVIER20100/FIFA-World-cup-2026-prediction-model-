@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Accuracy](https://img.shields.io/badge/Accuracy-61%25-yellow.svg)]()
 
-AI-powered prediction model for the FIFA World Cup 2026 using machine learning. Predict match outcomes, tournament favorites, and group stage results with 61% accuracy based on 49,483 historical matches.
+AI-powered prediction model for the FIFA World Cup 2026 using machine learning. Predict match outcomes, tournament favorites, and group stage results based on 49,483 historical matches.
 
 ---
 
