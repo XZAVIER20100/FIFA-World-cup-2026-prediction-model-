@@ -33,7 +33,7 @@ cd FIFA-World-cup-2026-prediction-model-
 pip install -r requirements.txt
 
 # Run the predictor
-python FIFA-World_cup_2026_prediction_model.py
+python world_cup_predictor.py
 ```
 
 ### Requirements
